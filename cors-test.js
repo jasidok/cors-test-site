@@ -1,4 +1,4 @@
-fetch('https://example.com/api/data', {
+fetch('https://us.trip.com/restapi/soa2/14839/json/hotelList', {
     method: 'GET',
     credentials: 'include',
     headers: {
