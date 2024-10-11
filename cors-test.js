@@ -1,7 +1,7 @@
 fetch('https://us.trip.com/restapi/soa2/14839/json/hotelList', {
     method: 'GET',
     headers: {
-        'Origin': 'https://jasidok.github.io'
+        'Origin': 'https://evil.com'
     }
 })
 .then(response => response.json())
